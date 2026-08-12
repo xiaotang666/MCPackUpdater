@@ -1,0 +1,8 @@
+MC 整合包智能更新工具 — by 小坣
+========================================
+
+首次使用需安装 .NET 8 运行时:
+https://dotnet.microsoft.com/download/dotnet/8.0
+点击 "Run desktop apps" 下载安装即可。
+
+安装完运行时后，双击 MCPackUpdater.exe 即可。
