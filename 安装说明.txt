@@ -1,12 +1,15 @@
-MC 整合包智能更新工具 v2.0.0 — by 小坣
-========================================
+MC 整合包智能更新工具 — 安装说明
+================================
+功能: 生成更新包 / 应用更新包 / 备份存档 / mod对比
 
 首次使用需安装 .NET 8 运行时:
-https://dotnet.microsoft.com/download/dotnet/8.0
-点击 "Run desktop apps" 下载安装即可。
+  https://dotnet.microsoft.com/download/dotnet/8.0
 
-安装完运行时后，双击 MCPackUpdater.exe 即可。
+使用方法:
+  双击 MCPackUpdater.exe 即可运行
+  (若未安装 .NET 8，可改用 启动器.bat 自动检测提示安装)
 
-功能:
-  Tab 1 📦 生成更新包 — 对比新旧整合包文件夹，生成差量更新包
-  Tab 2 📥 应用更新包 — 用更新包自动更新旧版整合包
+更新机制:
+  GitHub 仓库: https://github.com/xiaotang666/MCPackUpdater
+  国内优先走镜像轮询，不可用时回退 GitHub 原始地址
+  工具菜单 → 检查工具更新 即可在线升级
