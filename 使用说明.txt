@@ -1,7 +1,7 @@
-MC 整合包更新工具 v3.1.0（WinUI 3 版）— by 小坣
+MC 整合包更新工具 v3.2.0（WinUI 3 版）— by 小坣
 
 【运行】
-解压 MCPackUpdater_v3.1.0.zip 后，双击 MCPackUpdater.exe 即可运行（自包含，无需安装任何运行时）。
+解压 MCPackUpdater_v3.2.0.zip 后，双击 MCPackUpdater.exe 即可运行（自包含，无需安装任何运行时）。
 
 【功能】
 1. 生成更新包：选旧/新版本（文件夹或导入包 .zip，自动识别 CF/MCBBS/mrpack/平铺打包形式；旧版本可多选，生成"任意旧版本→新版"多基线合一更新包，含逐基线兼容性检测）→ 对比 → 可勾选保留/替换 mod → 生成平铺 ZIP（手动解压覆盖游戏目录即可更新，无需本工具）→ 支持「生成客户端更新包 / 生成服务端更新包」切换（服务端暂仅支持平铺服务端包/已安装目录，world、白名单、启动脚本等运营文件绝不覆盖/删除）
@@ -19,7 +19,7 @@ MC 整合包更新工具 v3.1.0（WinUI 3 版）— by 小坣
 
 【旧版(v2.x)用户注意】
 旧版内置"检查更新"无法自动升级到 v3.x（v3 为目录版，无单文件 exe）。若点击检查更新后出现"不支持的 16 位应用程序"报错：
-1. 该文件其实已是完整新版压缩包：把 MCPackUpdater.exe 重命名为 MCPackUpdater_v3.1.0.zip，解压即得新版；
+1. 该文件其实已是完整新版压缩包：把 MCPackUpdater.exe 重命名为 MCPackUpdater_v3.2.0.zip，解压即得新版；
 2. 或删除损坏的 MCPackUpdater.exe，到 GitHub Releases 下载最新 zip 解压使用。
 
 署名：小坣
