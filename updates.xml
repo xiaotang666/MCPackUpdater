@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.1.0.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.1.0.zip</url>
-    <notes>WinUI 3 重构版：全新界面、个性化配色、等比布局</notes>
+    <version>3.2.0.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.2.0.zip</url>
+    <notes>多基线合一更新包、主流压缩格式支持、检测Mod更新、服务端更新包、报错精确定位、更新包自动命名</notes>
     <mandatory>false</mandatory>
 </item>
