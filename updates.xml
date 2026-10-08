@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.2.0.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.2.0.zip</url>
-    <notes>多基线合一更新包、主流压缩格式支持、检测Mod更新、服务端更新包、报错精确定位、更新包自动命名</notes>
+    <version>3.2.1.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.2.1.zip</url>
+    <notes>检测Mod更新优化：识别名称回填、状态列显示已是最新版/可更新、修复版本列不刷新</notes>
     <mandatory>false</mandatory>
 </item>
