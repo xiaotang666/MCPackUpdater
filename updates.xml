@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.2.1.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.2.1.zip</url>
-    <notes>检测Mod更新优化：识别名称回填、状态列显示已是最新版/可更新、修复版本列不刷新</notes>
+    <version>3.2.2.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.2.2.zip</url>
+    <notes>识别准确性提升（CF 镜像兜底）、全选/取消全选可更新、默认勾选需要更新的 mod</notes>
     <mandatory>false</mandatory>
 </item>
