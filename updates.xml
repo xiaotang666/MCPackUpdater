@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.3.0.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.0.zip</url>
-    <notes>黑白名单系统（多配置管理）、下载版本自动显示最新版</notes>
+    <version>3.3.1.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.1.zip</url>
+    <notes>自更新下载实时进度显示（下载更新中 xx%）</notes>
     <mandatory>false</mandatory>
 </item>
