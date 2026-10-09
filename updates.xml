@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.3.4.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.4.zip</url>
-    <notes>修复配置"修改路径"无法真正修改的问题（路径框改为可编辑）</notes>
+    <version>3.3.5.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.5.zip</url>
+    <notes>选中配置只在当前目录套用勾选（不覆盖路径）、缺失 mod 提示</notes>
     <mandatory>false</mandatory>
 </item>
