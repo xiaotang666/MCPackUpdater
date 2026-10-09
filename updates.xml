@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.3.1.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.1.zip</url>
-    <notes>自更新下载实时进度显示（下载更新中 xx%）</notes>
+    <version>3.3.2.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.2.zip</url>
+    <notes>表头全选勾选框、名单识别所有勾选 mod（含已是最新版）、修复配置保存重置</notes>
     <mandatory>false</mandatory>
 </item>
