@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.3.5.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.5.zip</url>
-    <notes>选中配置只在当前目录套用勾选（不覆盖路径）、缺失 mod 提示</notes>
+    <version>3.3.6.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.6.zip</url>
+    <notes>解析/下载进度显示、勾选计数器（已勾选 X / 共 Y）、扫描数量对账</notes>
     <mandatory>false</mandatory>
 </item>
