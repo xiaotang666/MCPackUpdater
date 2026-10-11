@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.3.7.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.7.zip</url>
-    <notes>搜索栏、模式防呆、页面缓存（切页保留）、名称版本识别修复、名单一对一配对</notes>
+    <version>3.3.8.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.8.zip</url>
+    <notes>Mod对比修复：兼容平铺打包与 .zip 项目（光影/附属），不再全 0</notes>
     <mandatory>false</mandatory>
 </item>
