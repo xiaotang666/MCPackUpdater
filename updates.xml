@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.3.8.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.3.8.zip</url>
-    <notes>Mod对比修复：兼容平铺打包与 .zip 项目（光影/附属），不再全 0</notes>
+    <version>3.4.0.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.4.0.zip</url>
+    <notes>安装位置智能判定（光影/资源包归位）、升级结果与全新安装一致、GBK 文件名支持</notes>
     <mandatory>false</mandatory>
 </item>
