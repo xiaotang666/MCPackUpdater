@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.5.0.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.0.zip</url>
-    <notes>全新左侧导航界面(个性化/关于页)、更新后自动同步启动器版本名、检测Mod更新提速与识别增强、光影包自动归位、应用更新包回退、配色系统扩充、自更新窗口化</notes>
+    <version>3.5.1.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.1.zip</url>
+    <notes>窗口黑边彻底修复（无边框自绘+边缘缩放），界面四边干净</notes>
     <mandatory>false</mandatory>
 </item>
