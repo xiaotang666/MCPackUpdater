@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.5.1.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.1.zip</url>
-    <notes>窗口黑边彻底修复（无边框自绘+边缘缩放），界面四边干净</notes>
+    <version>3.5.2.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.2.zip</url>
+    <notes>更新窗口瘦身(图标+进度条)、服务端生成修复(版本识别兜底/.bak垃圾不打包不删/运行时缓存保护)</notes>
     <mandatory>false</mandatory>
 </item>
