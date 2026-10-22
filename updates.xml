@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.5.2.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.2.zip</url>
-    <notes>更新窗口瘦身(图标+进度条)、服务端生成修复(版本识别兜底/.bak垃圾不打包不删/运行时缓存保护)</notes>
+    <version>3.5.3.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.3.zip</url>
+    <notes>解析/下载大提速(同版本mod免下载+并行下载,约14倍)、窗口黑边根治(自绘三键)、最大化还原尺寸修复、解压缓存自动清理</notes>
     <mandatory>false</mandatory>
 </item>
