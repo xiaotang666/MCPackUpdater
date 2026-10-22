@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.5.4.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.4.zip</url>
-    <notes>去边框规范落地(无框无线/微明度分层/禁纯黑)、顶边与配色同步(随主题高光)、最大化还原黑屏修复</notes>
+    <version>3.5.5.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.5.zip</url>
+    <notes>Win11窗口红框修复(边线不绘制)、更新弹窗按DPI缩放+进度百分比显示</notes>
     <mandatory>false</mandatory>
 </item>
