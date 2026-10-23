@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.5.5.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.5.zip</url>
-    <notes>Win11窗口红框修复(边线不绘制)、更新弹窗按DPI缩放+进度百分比显示</notes>
+    <version>3.5.6.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.6.zip</url>
+    <notes>主窗口按DPI缩放(内容完整显示)、边缘/对角拖拽缩放修复、检测计数与状态列同口径、新增mod端属性列(客户端/服务端/双端)</notes>
     <mandatory>false</mandatory>
 </item>
