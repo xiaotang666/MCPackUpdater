@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>3.5.6.0</version>
-    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.6.zip</url>
-    <notes>主窗口按DPI缩放(内容完整显示)、边缘/对角拖拽缩放修复、检测计数与状态列同口径、新增mod端属性列(客户端/服务端/双端)</notes>
+    <version>3.5.7.0</version>
+    <url>https://github.com/xiaotang666/MCPackUpdater/releases/latest/download/MCPackUpdater_v3.5.7.zip</url>
+    <notes>修复窗口左/右/下及下方两个对角的缩放拖拽（对角可抓取范围加大）；移除「检测Mod更新」功能；修复高缩放下窗口尺寸被强制覆盖；清理调试日志</notes>
     <mandatory>false</mandatory>
 </item>
